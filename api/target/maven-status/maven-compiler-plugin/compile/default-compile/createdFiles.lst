@@ -1,0 +1,6 @@
+com/cloud/dc/api/Rest.class
+com/cloud/dc/api/NormalUser.class
+com/cloud/dc/api/App.class
+com/cloud/dc/api/impl/AdminImpl.class
+com/cloud/dc/api/Admin.class
+com/cloud/dc/api/User.class
