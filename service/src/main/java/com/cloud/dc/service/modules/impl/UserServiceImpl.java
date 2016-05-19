@@ -9,7 +9,6 @@ public class UserServiceImpl implements UserService {
 	@Override
 	public <E> Object resetPwd(E pwdPair) {
 		// TODO Auto-generated method stub
-		System.out.println("aaa");
 		return null;
 	}
 
